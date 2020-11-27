@@ -1,0 +1,5 @@
+spring:
+  #开始thymeleaf设置
+  thymeleaf:
+    #禁用模板缓存
+    cache: false
